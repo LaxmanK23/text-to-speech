@@ -3,7 +3,8 @@ import edge_tts
 
 input_file = "story.txt"
 output_audio = "narration.mp3"
-voice = "en-US-GuyNeural"
+voice = "hi-IN-SwaraNeural"
+
 
 async def narrate_story():
     with open(input_file, "r", encoding="utf-8") as f:
