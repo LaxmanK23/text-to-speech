@@ -1,0 +1,9 @@
+{
+  "intro_file": "intros/intro.txt",
+  "story_file": "chapters/ramayana_ch2.txt",
+  "outro_file": "intros/outro.txt",
+  "background_music": "background.mp3",
+  "output_filename": "final_episode.mp3",
+  "fade_duration_ms": 1500,
+  "silence_between_segments_ms": 1000
+}
