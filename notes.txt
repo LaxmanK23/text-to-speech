@@ -1,0 +1,8 @@
+"en-US-GuyNeural" — confident male
+
+"en-US-JennyNeural" — expressive female
+
+"en-GB-RyanNeural" — British male
+
+"en-IN-PrabhatNeural" — Indian male
+
