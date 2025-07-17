@@ -5,4 +5,17 @@
 "en-GB-RyanNeural" — British male
 
 "en-IN-PrabhatNeural" — Indian male
+Voice Name	Accent	Gender	Example
+en-IN-NeerjaNeural	Indian	Female	🇮🇳 ✅ Most natural
+en-IN-SwaraNeural	Indian	Female	Slightly formal
+ https://www.gyan.dev/ffmpeg/builds/
 
+
+  Step 1: Download FFmpeg
+Go to the official FFmpeg builds page:
+👉 https://www.gyan.dev/ffmpeg/builds/
+
+Click on:
+✅ "ffmpeg-release-essentials.zip" under Windows EXE files
+
+Extract the ZIP (you can put it in C:\ffmpeg for example)
