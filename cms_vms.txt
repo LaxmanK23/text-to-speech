@@ -1,0 +1,53 @@
+Welcome to VoyageX AI Crew Management System. In this demo, I’ll guide you through all powerful automation features designed to streamline maritime crew management.
+
+Let’s start with recruitment. Here, the shore team can create new job openings directly from the CMS. Any openings are auto-published on the company’s careers website and generate application links to share with candidates.
+
+When a seafarer candidate receives the link, they’ll see a dynamic form. Document requirements are tailored automatically to the selected rank; only the necessary fields and uploads are requested, as defined by the shore team. This guarantees complete, rank-specific applications.
+
+All incoming applications appear here for review by the recruitment team. I can approve, reject, hold, or mark candidates as hired. Hired applicants are instantly added to the main seafarer database.
+
+In the Seafarer tab, you’ll find a live database of all crew, including their current status — onboard, planned, or on leave — and complete employment records.
+
+The shore team can directly add new seafarers at any time by clicking Add Seafarer and filling in basic details. This is great for onboarding trusted candidates or handling urgent crew requests.
+
+For each profile, you can view experience, upload or download documents and CVs, assign readiness dates, and plan vessel assignments — all from a single screen.
+
+Once a seafarer is planned on a vessel, they automatically receive an alert prompting them to complete their digital boarding forms. The required forms and documents are tailored to their rank, as defined in the master settings by the shore team.
+
+Seafarers can fill and upload these documents from any device. The shore team can also track progress, submit forms on the seafarer’s behalf if necessary, and always has a real-time overview of what’s outstanding.
+
+Once all documents are submitted, onboarding can be completed with a single click, instantly updating all assignments and records. The system also manages master data for wage scales and form requirements by rank in the same section.
+
+The Planner dashboard provides a real-time overview of every vessel’s crew status. It shows onboarded seafarers, planned crew, upcoming rotations, and lets the team add notes per vessel.
+
+You can instantly generate and download different types of crew lists, such as the IMO crew list, company crew list, and crew checklist, supporting both internal management and port compliance needs.
+
+In the Roster module, you have a comprehensive schedule of all current and planned crew assignments. The standout feature here is AI-powered crew replacement suggestions.
+
+The system analyzes ongoing contract end dates, leave status, certificate validity, rank, readiness, vessel experience, and other operational parameters to recommend the best next on-signer for any position. This dramatically reduces manual workload and planning errors.
+
+If last-minute changes occur, you get instant, updated recommendations — ensuring full crew coverage at all times. When appropriate, you can forward the selected seafarer’s full profile and documents directly to crewing agents with the Send to Agent button.
+
+The Gantt chart view offers a visual timeline of crew assignments. Drag and drop to adjust plans, spot coverage gaps or overlaps, and instantly react to vessel and operational needs.
+
+At any time, you can generate up-to-date Crew Lists showing all current, planned, and recently disembarked seafarers for each voyage. Profiles display joining or leaving dates, vessel or position, and, if available, travel arrangements.
+
+This real-time list supports both ship and shore teams in executing fast, coordinated embarkations and disembarkations, with documentation available in standard formats for authorities and agents. Crew lists can be sent directly to agents as required.
+
+With the toggle button at the top right, you can switch from the shore view to the vessel interface. This adjusts permissions and layout for shipboard operations.
+
+Overview shows a dashboard of crew status, alerts for expiring documents, and quick insights into vessel manning.
+
+Work and Rest Hours allows the Master or assigned officers to record work and rest hours for each crew member. Monthly WRH schedules can be filled and edited. Completed records are exportable as PDFs, ensuring compliance with maritime labor standards.
+
+Crew List displays the up-to-date list of all current crew, their status, and allows for list generation as needed.
+
+Roster provides rotation planning, relief management, AI-based crew suggestions, and sign-off or sign-on tracking.
+
+Appraisal allows the Master and Chief Engineer to complete appraisals for all other crew. Appraisals for the Master and Chief Engineer themselves are submitted by the shore team. All appraisal records feed into centralized performance tracking, supporting transparent evaluations and audit readiness.
+
+The CMS sends automated alerts for expiring documents, contracts, and pending appraisals. Every user action is tracked with a full audit trail, supporting regulatory compliance and internal reviews.
+
+Master data for wage scales, required forms by rank, and other setup elements are maintainable right from the CMS, allowing for easy adaptation to changing regulations and company policy.
+
+In summary, the VoyageX AI Crew Management System provides a fully integrated, AI-empowered solution for managing every step of the crew lifecycle — supporting both operational efficiency and compliance across ship and shore teams. If you’re interested in a specific feature or want to see a live workflow, feel free to reach out.
